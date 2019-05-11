@@ -1,0 +1,92 @@
+{
+    "inspirations": [
+        {
+            "title": "Fulminante Weine f\u00FCr das perfekte Weihnachtsfest",
+            "category": "Themenwelt",
+            "label": "Das Beste zum Fest",
+            "buttonText": "Jetzt entdecken",
+            "image": "https://source.unsplash.com/480x480/?christmas",
+            "isFeatureStory": true
+        },
+        {
+            "title": "Appassimento Passito, Amarone \u0026amp; Co.",
+            "category": "Themenwelt",
+            "label": "Trendweine Italiens",
+            "buttonText": "Zu den Weinen",
+            "image": "https://source.unsplash.com/480x480/?wine",
+            "isFeatureStory": false
+        },
+        {
+            "title": "Gro\u00DFe Punkte, kleine Preise",
+            "category": "Themenwelt",
+            "label": "Best Buys",
+            "buttonText": "Mehr erfahren",
+            "image": "https://source.unsplash.com/480x480/?winery",
+            "isFeatureStory": false
+        },
+        {
+            "title": "Eine Diva gibt sich die Ehre!",
+            "category": "Rebsorte",
+            "label": "Chardonnay",
+            "buttonText": "Zu den Weinen",
+            "image": "https://source.unsplash.com/480x480/?chardonnay",
+            "isFeatureStory": false
+        },
+        {
+            "title": "Blind-Tasting f\u00FCr zu Hause",
+            "category": "Feintrinker",
+            "label": "Syrah / Shiraz",
+            "buttonText": "Mehr erfahren",
+            "image": "https://source.unsplash.com/480x480/?syrah,shiraz",
+            "isFeatureStory": false
+        },
+        {
+            "title": "Rocking Rh\u00F4ne: Ch\u00E2teauneuf \u0026amp; Friends",
+            "category": "Region",
+            "label": "Rh\u00F4ne, Frankreich",
+            "buttonText": "Zu den Weinen",
+            "image": "https://source.unsplash.com/480x480/?rhone",
+            "isFeatureStory": true
+        },
+        {
+            "title": "Ihre Weine f\u00FCr jeden Tag",
+            "category": "Themenwelt",
+            "label": "Discover",
+            "buttonText": "Mehr erfahren",
+            "image": "https://source.unsplash.com/480x480/?discover",
+            "isFeatureStory": false
+        },
+        {
+            "title": "Splendid Sparkling - besser kann das Jahr nicht enden!",
+            "category": "Weintyp",
+            "label": "Champagner \u0026amp; Co.",
+            "buttonText": "Jetzt entdecken",
+            "image": "https://source.unsplash.com/480x480/?champagne",
+            "isFeatureStory": true
+        },
+        {
+            "title": "Einmal getrunken, niemals vergessen!",
+            "category": "Themenwelt",
+            "label": "Weinklassiker",
+            "buttonText": "Zu den Weinen",
+            "image": "https://source.unsplash.com/480x480/?wines",
+            "isFeatureStory": true
+        },
+        {
+            "title": "So l\u00E4uft der Hase. Zu den Oster-Produkten!",
+            "category": "Themenwelt",
+            "label": "Seasonal",
+            "buttonText": "Zu den Weinen",
+            "image": "https://source.unsplash.com/480x480/?easter",
+            "isFeatureStory": false
+        },
+        {
+            "title": "Vive Bordeaux! Die bedeutendste Wein-Region der Welt",
+            "category": "Region",
+            "label": "Bordeaux, Frankreich",
+            "buttonText": "Zu den Weinen",
+            "image": "https://source.unsplash.com/480x480/?bordeaux",
+            "isFeatureStory": true
+        }
+    ]
+}
